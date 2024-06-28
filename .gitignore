@@ -1,0 +1,4 @@
+build/
+*.py
+*.zip
+.DS_Store
